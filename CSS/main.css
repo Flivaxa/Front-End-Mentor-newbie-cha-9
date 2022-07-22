@@ -60,6 +60,9 @@ body {
 .container header p {
     color: var(--Neutral-Grayish-Blue);
     line-height: 1.7;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container main {
     padding-top: 50px;
